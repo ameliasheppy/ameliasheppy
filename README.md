@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ameliasheppy
+- 👋 Hi, I’m @ameliasheppy, a Front End Developer from the Midwest. 
 - 👀 I’m interested in learning all things Javascript, Front End Development, AWS cloud architecture.
-- 🌱 I’m currently learning how to use responsive web design to make functional, beautiful sites. 
-- 💞️ I’m looking to collaborate on learning projects that will further my skills.
+- 🌱 I’m currently working in my internship as a Front End Developer with a team of developers to create a functional, beautiful site. 
 
 <!---
 ameliasheppy/ameliasheppy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

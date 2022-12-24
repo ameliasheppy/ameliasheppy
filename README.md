@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **JS, React, HTML, CSS**
 
-- 📫 How to reach me **stanley582021@gmail.com**
+- 📫 How to reach me **thegirl033007@gmail.com**
 
 - ⚡ Fun fact **I am passionate advocate of animal rescue!**
 

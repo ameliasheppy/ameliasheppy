@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amy Stanley</h1>
-<h3 align="center">A passionate frontend developer from Ohio</h3>
+<h3 align="center">A front end developer from Ohio</h3>
 
 - 🔭 I’m currently working on **Breyer Collector's App**
 

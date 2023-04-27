@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Amy Stanley</h1>
 <h3 align="center">A front end developer from Ohio</h3>
 
-- 🔭 I’m currently enrolled in the Hackbright x Shipt Software Engineering Course
+- 🔭 I’m currently in a full stack fellowship with the Hackbright x Shipt Software Engineering Course
 
-- 🌱 I’m currently learning **AWS Solutions Architect Associate** skills and I am building Cruddur with Andrew Brown's great group!
+- 🌱 I’m currently learning **AWS Solutions Architect Associate** skills and I am building two new cool sites!
 
-- 👯 I’m looking to collaborate on **AWS projects**
+- 👯 I’m looking to collaborate on **AWS projects** so that I can gain real-world experience to go with my skills.
 
 <!-- - 🤝 I’m looking for help with **AWS Startups** -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/ameliasheppy?tab=repositories](https://github.com/ameliasheppy?tab=repositories)
 
-- 💬 Ask me about **JS, React, HTML, CSS, AWS**
+- 💬 Ask me about **JS, React, HTML, CSS, AWS, Flask, Python, PostgreSQL, wireframes**
 
 - 📫 How to reach me **thegirl033007@gmail.com**
 

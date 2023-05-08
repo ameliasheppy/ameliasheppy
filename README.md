@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ameliasheppy?tab=repositories](https://github.com/ameliasheppy?tab=repositories)
 
-- 💬 Ask me about **JS, React, HTML, CSS, AWS, Flask, Python, PostgreSQL, wireframes**
+- 💬 Ask me about **JS, React, HTML, CSS, Bootstrap, AWS, Flask, Python, PostgreSQL, wireframes, and I'm always up for a dog breed trivia challenge 💪**
 
 - 📫 How to reach me **thegirl033007@gmail.com**
 

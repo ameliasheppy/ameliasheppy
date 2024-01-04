@@ -4,7 +4,7 @@
 
 <!-- - 🤝 I’m looking for help with **AWS Startups** -->
 
-- 👨‍💻 All of my projects are available at [https://github.com/ameliasheppy?tab=repositories](https://github.com/ameliasheppy?tab=repositories)
+- 👨‍💻 Some of my projects are available [here](https://github.com/ameliasheppy?tab=repositories)
 
 - 💬 Ask me about **JS, React, HTML, CSS, Bootstrap, AWS, Flask, Python, PostgreSQL, DevOps and I'm always up for a dog breed trivia challenge **
 

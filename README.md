@@ -6,7 +6,7 @@
 
 - 👨‍💻 Some of my projects are available [here](https://github.com/ameliasheppy?tab=repositories)
 
-- 💬 Ask me about **JS, React, HTML, CSS, Bootstrap, AWS, Flask, Python, PostgreSQL, DevOps and I'm always up for a dog breed trivia challenge **
+- 💬 Ask me about **JS, React, HTML, CSS, Bootstrap, Flask, Python, PostgreSQL, and I'm always up for a dog breed trivia challenge **
 
 
 
